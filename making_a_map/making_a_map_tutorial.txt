@@ -1,0 +1,5 @@
+Tutorial: https://www.qgistutorials.com/en/docs/3/making_a_map.html
+
+Notes:
+Expression for appending degrees symbol to  grid numbers
+concat(to_string(@grid_number), '°    ')
